@@ -1,7 +1,7 @@
 # SDP_Optimization
 
 
-![Alt Text](./Results/jpg/projet.jpg)
+![Alt Text](./Results/jpg/projet.png)
 
 
 # Results
