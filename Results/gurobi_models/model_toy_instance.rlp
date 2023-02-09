@@ -1,7 +1,14 @@
 \ LP format - for model browsing. Use MPS format to capture full model detail.
-Maximize
-  - 3 I225(1) - 3 I226(1) - 3 I227(1) - 3 I228(1) - 3 I229(1) + 20 B235(3)
+Maximize multi-objectives
+  OBJ0: Priority=2 Weight=1 AbsTol=1e-06 RelTol=0
+   - 3 I225(1) - 3 I226(1) - 3 I227(1) - 3 I228(1) - 3 I229(1) + 20 B235(3)
    + 15 B236(2) + 15 B237(2) + 20 B238(2) + 10 B239(1)
+  OBJ1: Priority=1 Weight=-1 AbsTol=1e-06 RelTol=0
+   I255(1)
+  OBJ2: Priority=0 Weight=1 AbsTol=1e-06 RelTol=0
+   - I268(5)
+  OBJ3: Priority=1 Weight=-1 AbsTol=1e-06 RelTol=0
+   I257(1)
 Subject To
  c0: B0(6) + B1(6) + B2(6) + B3(6) + B4(6) + B5(6) + B6(6) + B7(6) + B8(6)
    + B9(6) + B10(6) + B11(6) + B12(6) + B13(6) + B14(6) <= 1
