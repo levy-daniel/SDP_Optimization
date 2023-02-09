@@ -22,7 +22,7 @@ Pareto for toy instance:
 
 | Points                                            | Surface                                            | Tri Surface                                            |
 |----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
-| <img src="./Results/jpg/pareto_points_instance.jpg " width="500">| <img src="./Results/jpg/pareto_toy_instance.jpg " width="500">| <img src="./Results/jpg/pareto_tri_toy_instance.jpg " width="500">||
+| <img src="./Results/jpg/pareto_points_toy_instance.jpg " width="500">| <img src="./Results/jpg/pareto_toy_instance.jpg " width="500">| <img src="./Results/jpg/pareto_tri_toy_instance.jpg " width="500">||
 
 
 ## Medium Instance
