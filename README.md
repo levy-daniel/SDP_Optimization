@@ -18,11 +18,11 @@ Planning for toy instance with optimal solution:
 
 <img src="./Results/jpg/planning_toy_instance.jpg" width="500">
 
-Pareto Surface for toy instance:
+Pareto for toy instance:
 
-| Surface                                            | Tri Surface                                            |
-|----------------------------------------------------|--------------------------------------------------------|
-| <img src="./Results/jpg/pareto_toy_instance.jpg " width="500">| <img src="./Results/jpg/pareto_tri_toy_instance.jpg " width="500">||
+| Points                                            | Surface                                            | Tri Surface                                            |
+|----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|
+| <img src="./Results/jpg/pareto_points_instance.jpg " width="500">| <img src="./Results/jpg/pareto_toy_instance.jpg " width="500">| <img src="./Results/jpg/pareto_tri_toy_instance.jpg " width="500">||
 
 
 ## Medium Instance
